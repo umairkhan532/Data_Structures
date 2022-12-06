@@ -117,5 +117,4 @@ advantage in terms of total comparisons necessary.
 6. https://www.geeksforgeeks.org/deletion-binary-tree/
 7. https://www.gatevidyalay.com/tree-traversal-binary-tree-traversal/
 8. https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binarytrees
-9. https://www.javatpoint.com/binary-tree <br>
-10.https://www.w3schools.in/data-structures/binary-trees
+9. https://www.javatpoint.com/binary-tree <br> 10.https://www.w3schools.in/data-structures/binary-trees
